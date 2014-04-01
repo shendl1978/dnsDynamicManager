@@ -1,0 +1,10 @@
+setup.py
+com/__init__.py
+com/shendl/__init__.py
+com/shendl/dnsdynamic/__init__.py
+com/shendl/dnsdynamic/dnsManager.py
+dnsManager.egg-info/PKG-INFO
+dnsManager.egg-info/SOURCES.txt
+dnsManager.egg-info/dependency_links.txt
+dnsManager.egg-info/entry_points.txt
+dnsManager.egg-info/top_level.txt

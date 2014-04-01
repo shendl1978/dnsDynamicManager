@@ -1,0 +1,3 @@
+[console_scripts]
+dnsManager = com.shendl.dnsdynamic.dnsManager:main
+
